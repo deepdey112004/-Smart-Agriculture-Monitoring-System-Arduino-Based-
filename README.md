@@ -24,7 +24,6 @@ This project collects real-time environmental data using sensors and displays it
 ## 🔧 Circuit Diagram
 <img width="412" height="651" alt="image" src="https://github.com/user-attachments/assets/b20997c4-e959-4c21-927f-e66dc563c43d" />
 <img width="698" height="645" alt="image" src="https://github.com/user-attachments/assets/1879756a-1965-4019-a08e-0ed1bdce792a" />
-<img width="466" height="658" alt="image" src="https://github.com/user-attachments/assets/af8ad28d-9553-4f86-9b41-46f5871ea878" />
 ---
 
 ## 🧾 Components List
@@ -63,16 +62,7 @@ Install the following library via Arduino IDE Library Manager:
 ---
 
 ## 📊 Sample Serial Monitor Output
-
-🌐 Smart Agriculture Monitoring Started...
-============== Sensor Data ==============
-🌡 Temperature: 28.0 °C
-💧 Humidity: 65.0 %
-🌧 Rain Status: No Rain
-🔥 Gas Level (MQ2): 341
-🌱 Soil Moisture: 498 - Soil Wet
-
-
+<img width="466" height="658" alt="image" src="https://github.com/user-attachments/assets/1a288bd7-8633-4fd3-8a58-d4a7ec132bb5" />
 ---
 
 ## 🧠 Future Development Ideas
